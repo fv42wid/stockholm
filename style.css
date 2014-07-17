@@ -1,0 +1,166 @@
+
+
+h3 {
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+h3.second-h3 {
+  margin-top: 0;
+  color: #fec760;
+}
+
+h3.third-h3 {
+  font-size: 20px;
+  margin: 5px 0 10px 0;
+  color: #9B9E93;
+}
+
+.header-jumbotron {
+  padding-top: 5px;
+  padding-bottom: 30px;
+  background-image: url("stockholm_at_night.jpg");
+  background-size: cover;
+  color: #fff;
+  margin-bottom: 0;
+}
+
+.header-jumbotron h1 {
+  margin: 0;
+}
+
+.title-div small {
+  margin-left: 120px;
+}
+
+.tech-fest h2 {
+  line-height: 50px;
+  font-size: 45px;
+  margin-bottom: 0;
+  font-weight: bolder;
+}
+
+.tech-fest h2.second-h2 {
+  margin-top: 0;
+}
+
+.tech-fest h2.no-bold {
+  font-weight: lighter;
+}
+
+.jumbo-desc-row {
+  margin-bottom: 100px;
+}
+
+.jumbo-desc-row p {
+  font-size: 12px;
+}
+
+.brand-link {
+  display: block;
+}
+
+.btn-warning {
+  color: #46341C;
+}
+
+h4.speaker-heading {
+  color: #FDC75D;
+}
+
+.speaker-heading-row {
+  margin: 10px 0 20px 0;
+}
+
+.speaker-info-row {
+  margin-bottom: 30px;
+}
+
+p.speaker-text {
+  margin-bottom: 0;
+  color: #444;
+  font-size: 12px;
+}
+
+p.company-text {
+  color: #ACBFC3;
+}
+
+div.speaker-div {
+  margin-bottom: 20px;
+}
+
+.program-wrapper {
+  background-color: #FEE6B8;
+}
+
+h4.program-header {
+  color: #3F6979;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.table>thead>tr>th {
+  border-bottom: none;
+  border-color: #FEE6B8;
+  text-align: center;
+  padding: 0;
+  font-size: 15px;
+  color: #FDD484;
+}
+
+.table>thead>tr>th,
+.table>tbody>tr>th,
+.table>tfoot>tr>th,
+.table>thead>tr>td,
+.table>tbody>tr>td,
+.table>tfoot>tr>td {
+  border-top: none;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+td.time {
+  color: #416975;
+  font-size: 12px;
+}
+
+td.event-name {
+  color: #80989C;
+  font-size: 11px;
+}
+
+.table>tbody>tr td.event-sponsor {
+  color: #000;
+  font-size: 11px;
+  padding-bottom: 10px;
+}
+
+.bottom-jumbo {
+  padding-top: 20px;
+  padding-bottom: 100px;
+  margin-bottom: 0;
+  color: #fff;
+  background-image: url("bottom-jumbo-background.jpg");
+  background-size: cover;
+}
+
+.bottom-jumbo h2 {
+  font-size: 35px;
+  font-weight: bolder;
+  margin: 5px 0 5px 0;
+}
+
+.special-performance {
+  margin-top: 10px;
+}
+
+.bottom-attend {
+  margin-top: 20px;
+}
+
+footer {
+  width: 100%;
+  height: 100px;
+  color: #8c938c;
+}
